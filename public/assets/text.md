@@ -1,4 +1,4 @@
-# Las aventuras the txuri, txari y txero
+# Las aventuras de txuri, txari y txero
 
 ![image alt text](/assets/image_0.jpg)
 
@@ -568,7 +568,7 @@ Los tres amigos miraron al fondo de la estancia y vieron una cama gigante, con u
 
 ![image alt text](/assets/image_41.jpg)
 
-txero se escondió detrás de txuri y txuri se escondió detrás the txari así que txari tuvo que ser la primera en hablar.
+txero se escondió detrás de txuri y txuri se escondió detrás de txari así que txari tuvo que ser la primera en hablar.
 
 — Querido señor que intenta dormir. No queríamos molestar, simplemente hemos oído sus gemidos y hemos venido a ver si podemos ayudar.
 
