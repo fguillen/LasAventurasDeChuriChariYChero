@@ -1,8 +1,9 @@
 <template>
   <div class="container-sm col-lg-7">
     <nav class="top navbar py-0 py-md-0 navbar-expand-md navbar-light bg-white sticky-top">
-      <router-link class="navbar-brand" to="/">txuri, txari y txero</router-link>
-      <button class="navbar-toggler mt-1" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <router-link class="navbar-brand" to="/">Churi, Chari y Chero</router-link>
+      <button class="navbar-toggler mt-1" type="button" data-toggle="collapse" data-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <i class="fas fa-bars"></i>
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">

@@ -1,4 +1,4 @@
-# las-aventuras-de-txuri-txari-y-txero
+# Las aventuras de Churi, Chari y Chero
 
 ## Project setup
 ```

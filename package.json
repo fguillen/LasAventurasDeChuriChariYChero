@@ -1,11 +1,12 @@
 {
-  "name": "las-aventuras-de-txuri-txari-y-txero",
+  "name": "las-aventuras-de-Churi-Chari-y-Chero",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "deploy": "git push origin :gh-pages && git subtree push --prefix dist origin gh-pages"
   },
   "dependencies": {
     "babel-runtime": "^6.26.0",

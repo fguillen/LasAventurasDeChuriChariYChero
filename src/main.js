@@ -35,7 +35,7 @@ const router = new VueRouter({
 
 Vue.use(VueGtag, {
   config: { id: "UA-154550284-1" },
-  appName: 'Las aventuras de txuri, txari y txero'
+  appName: 'Las aventuras de Churi, Chari y Chero'
 }, router);
 
 new Vue({

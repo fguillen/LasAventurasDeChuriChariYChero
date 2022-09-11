@@ -8,7 +8,7 @@
       <img class="front-image" src="/assets/book.png">
 
       <p class="lead">
-        Gracias por estar interesado/a en comprar "Las aventuras de txuri, txari y txero" en formato
+        Gracias por estar interesado/a en comprar "Las aventuras de Churi, Chari y Chero" en formato
         papel. Así podrás leerlo con tus hijos e hijas más cómodamente o dejar que sean ellos o ellas
         quienes lo lean por su cuenta. También
         podrás regalarlo o dejarlo a quien quieras una vez que lo hayáis terminado.
