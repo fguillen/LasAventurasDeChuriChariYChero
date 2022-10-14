@@ -61,8 +61,7 @@
             <div style="display:none">
               <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text"
                 property="dc:title" rel="dc:type">Las aventuras de Churi, Chari y Chero</span>
-              was created by <span xmlns:dc="http://purl.org/dc/elements/1.1/" property="dc:title">Fernando
-                Guillen</span>
+              was created by <span xmlns:dc="http://purl.org/dc/elements/1.1/" property="dc:title">Guzmán Requena</span>
               on <span xmlns:dc="http://purl.org/dc/elements/1.1/" property="dc:date">2019-12-14</span>.
               License: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
                 http://creativecommons.org/licenses/by-nc-sa/4.0/ </a>.
