@@ -20,7 +20,7 @@
       </p>
 
       <p class="h3">
-        <a href="mailto:churichariychero@playcocola.com">churichariychero@playcocola.com</a>
+        <a href="mailto:catapulta101@protonmail.com">catapulta101@protonmail.com</a>
       </p>
 
       <p class="lead">
